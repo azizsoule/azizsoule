@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aziz Soulé</h1>
-<h3 align="center">A passionate backend developer from Côte d’Ivoire</h3>
+<h3 align="center">A passionate Frontend (and Backend) developer from Côte d’Ivoire</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizsoule&label=Profile%20views&color=0e75b6&style=flat" alt="azizsoule" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/_aziz_soule_" target="blank"><img src="https://img.shields.io/twitter/follow/_aziz_soule_?logo=twitter&style=for-the-badge" alt="_aziz_soule_" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Spring boot, Laravel**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Flutter and Soring boot**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **aziz.soule.dev@gmail.com**
 
